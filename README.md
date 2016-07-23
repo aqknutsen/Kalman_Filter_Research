@@ -2,4 +2,4 @@
 
 Authors: Alec Knutsen, Jonathan Bush
 
-Repo includes a paper that runs through a simple derivation of the Kalman Filter and some simple implemntations of the Kalman Filter in Matlab
+Repo includes a paper that runs through a simple derivation of the Kalman Filter and some simple implementations of the Kalman Filter in Matlab
